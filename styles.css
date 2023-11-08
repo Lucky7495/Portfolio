@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    margin: 0 auto;
+    width: 40%;
+    justify-content: space-between;
+    list-style-type:none;
+}
+.header li a{
+    color: #000;
+    text-decoration: none;
+}
+.header li a:hover{
+    border-bottom:  ;
+}
