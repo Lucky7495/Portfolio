@@ -2,9 +2,12 @@
     <li>
         <a href="Index.php">Accueil</a></li>
     <li>
-        <a href="projets.php">Mes projets</a>
+        <a href="profil.php">Profil </a>
     </li>
     <li>
-        <a href="certifs.php"></a>
+        <a href="certifs.php">BTS SIO</a>
+    </li>
+    <li>
+        <a href="certifs.php">BTS SIO</a>
     </li>
 </ul>
